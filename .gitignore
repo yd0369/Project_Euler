@@ -13,3 +13,7 @@ _deps
 
 # External Modules
 external/googletest
+
+# Build and Binary Directories
+build
+bin
